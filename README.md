@@ -9,10 +9,10 @@
 India records one of the highest numbers of road accidents globally.
 Major challenges include:
 
-* ❌ Delayed emergency response
-* ❌ Poor road infrastructure monitoring
-* ❌ Lack of real-time safety insights
-* ❌ Limited awareness of traffic laws
+* ❌ Delayed emergency response.
+* ❌ Poor road infrastructure monitoring.
+* ❌ Lack of real-time safety insights.
+* ❌ Limited awareness of traffic laws.
 
 ---
 
@@ -211,6 +211,7 @@ python pothole_detection.py
 ---
 
 ## 👥 Team
+
 
 * Saket Pathak
 
