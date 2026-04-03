@@ -31,10 +31,10 @@ Major challenges include:
 
 ### 🚨 1. Smart SOS System
 
-* One-tap emergency alert
-* Sends real-time location
-* Displays nearby hospitals and emergency services
-* Simulated ambulance dispatch with ETA
+* One-tap emergency alert.
+* Sends real-time location.
+* Displays nearby hospitals and emergency services.
+* Simulated ambulance dispatch with ETA.
 
 ---
 
@@ -51,9 +51,9 @@ Major challenges include:
 
 ### 📊 3. Interactive Dashboard
 
-* Accident hotspot visualization
-* Reported issues mapping
-* Safety analytics and insights
+* Accident hotspot visualization.
+* Reported issues mapping.
+* Safety analytics and insights.
 
 ---
 
@@ -63,7 +63,7 @@ Major challenges include:
 
   * Time (night/day)
   * Road conditions
-  * Environment factors
+  * Environmental factors
 * Displays real-time alerts
 
 ---
@@ -221,7 +221,7 @@ python pothole_detection.py
 ## 🏆 Hackathon Vision
 
 Raksha AI is not just a project —
-it is a step towards making Indian roads **safer, smarter, and more responsive**.
+It is a step towards making Indian roads **safer, smarter, and more responsive**.
 
 ---
 
