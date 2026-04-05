@@ -218,22 +218,3 @@ python pothole_detection.py
 
 ---
 
-## 🏆 Hackathon Vision
-
-Raksha AI is not just a project —
-It is a step towards making Indian roads **safer, smarter, and more responsive**.
-
----
-
-## 📸 Demo (To be added)
-
-* Screenshots
-* Demo video link
-
----
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub!
-
----
