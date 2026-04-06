@@ -207,6 +207,11 @@ python pothole_detection.py
 * 🚑 Emergency services
 * 🏛️ Government authorities
 * 🏙️ Smart city initiatives
+* One-tap SOS → alerts family + police
+* Live location tracking
+
+
+
 
 ---
 
