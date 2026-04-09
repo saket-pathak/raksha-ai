@@ -179,11 +179,11 @@ python pothole_detection.py
 
 ## 🚀 Future Scope
 
-* 🤖 Advanced ML-based accident prediction
-* 📡 Real-time IoT integration (vehicle sensors)
-* 🏥 Direct integration with hospitals & ambulances
-* 📞 AI voice assistant for emergency support
-* 🚦 Smart traffic system integration
+* 🤖 Advanced ML-based accident prediction.
+* 📡 Real-time IoT integration (vehicle sensors).
+* 🏥 Direct integration with hospitals & ambulances.
+* 📞 AI voice assistant for emergency support.
+* 🚦 Smart traffic system integration.
 
 ---
 
@@ -203,12 +203,12 @@ python pothole_detection.py
 
 ## 🎯 Use Cases
 
-* 👨‍🚗 Daily commuters
-* 🚑 Emergency services
-* 🏛️ Government authorities
-* 🏙️ Smart city initiatives
-* One-tap SOS → alerts family + police
-* Live location tracking
+* 👨‍🚗 Daily commuters.
+* 🚑 Emergency services.
+* 🏛️ Government authorities.
+* 🏙️ Smart city initiatives.
+* One-tap SOS → alerts family + police.
+* Live location tracking.
 
 
 
