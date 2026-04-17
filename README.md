@@ -215,7 +215,7 @@ python pothole_detection.py
 
 ---
 
-## 👥 Team
+##
 
 
 * Saket Pathak
