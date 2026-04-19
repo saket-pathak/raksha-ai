@@ -1,4 +1,4 @@
-# 🚨 Raksha AI – Intelligent Road Safety Ecosystem
+# Raksha AI – Intelligent Road Safety Ecosystem
 
 > “Preventing accidents. Saving lives. Empowering citizens.”
 
