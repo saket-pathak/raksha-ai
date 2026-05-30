@@ -13,6 +13,10 @@ import { LanguageProvider } from './context/LanguageContext';
 export default function App() {
   return (
     <LanguageProvider>
+      <style>{`
+        body { margin: 0; padding: 0; background-color: #060810; }
+        *, *::before, *::after { box-sizing: border-box; }
+      `}</style>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/dashboard" element={<Dashboard />} />
