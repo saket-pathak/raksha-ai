@@ -212,6 +212,13 @@ python -m unittest discover -s ../tests
 
 ---
 
+
+<b>Made by Team Ascendrix</b><br>
+Saket Pathak • Ishan Sirohi • Harshit Agarwal • Yash Parashar • Prashant Panwar • Sahil Saini
+</div>
+
+---
+
 <div align="center">
   <b>Built for safety. Designed for impact.</b><br><br>
   <i>Maintainer: Saket Pathak</i>
