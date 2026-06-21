@@ -214,7 +214,7 @@ python -m unittest discover -s ../tests
 
 
 <b>Made by Team Ascendrix</b><br>
-Saket Pathak • Ishan Sirohi • Harshit Rastogi • Yash Parashar • Prashant Panwar • Sahil Saini
+Saket Pathak • Ishan Sirohi • Harshit Rastogi 
 </div>
 
 ---
