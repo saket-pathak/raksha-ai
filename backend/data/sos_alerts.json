@@ -1,5 +1,25 @@
 [
   {
+    "alert_id": "SOS-20260531134222361820",
+    "user_name": "Raksha AI User",
+    "user_id": "user-123",
+    "timestamp": "2026-05-31T13:42:22+00:00",
+    "status": "dispatched",
+    "location": {
+      "lat": 28.6139,
+      "lng": 77.209,
+      "source": "test"
+    },
+    "emergency_contacts": [
+      "+91-9999999999"
+    ],
+    "contacts_notified": 1,
+    "note": "Automated test incident",
+    "device_info": {
+      "platform": "web"
+    }
+  },
+  {
     "alert_id": "SOS-20260530081152486852",
     "user_name": "Raksha AI User",
     "user_id": "user-123",

@@ -123,3 +123,28 @@ Additional Details:
 Immediate assistance may be required.
 
 
+===============================
+        RAKSHA AI SOS ALERT
+===============================
+
+User: Raksha AI User
+Time: 2026-05-31T13:42:22+00:00
+Status: Possible road accident detected
+
+Location Details:
+City: Unknown
+Region: Unknown
+Country: Unknown
+Coordinates: 28.6139, 77.209
+Accuracy: N/A
+Source: test
+
+Emergency contacts: 1
+Note: Automated test incident
+
+Additional Details:
+- platform: web
+
+Immediate assistance may be required.
+
+
